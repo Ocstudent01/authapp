@@ -4,7 +4,7 @@ export default function Register(){
     return (
         <div>
             <Head>
-                <h1>Register</h1>
+                <title>Register</title>
             </Head>
 
             <h1>Register</h1>
